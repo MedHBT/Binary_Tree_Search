@@ -1,0 +1,8 @@
+Cheval
+Chat
+Chien
+Crocodile
+Poisson
+Gazelle
+Oiseau
+Mouton
